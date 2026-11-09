@@ -4,15 +4,14 @@ My name is Matvey and I'm 17 y.o. Python developer from Belarus. At this point I
 
 ## 🔍 Technologies & Tools (that I had experience in)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Python](https://skillicons.dev/icons?i=python&theme=dark)
+![Linux](https://skillicons.dev/icons?i=linux&theme=dark)
+![Git](https://skillicons.dev/icons?i=git&theme=dark)
+![VS Code](https://skillicons.dev/icons?i=vscode&theme=dark)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=dark)
+![Django](https://skillicons.dev/icons?i=django&theme=dark)
+![Flask](https://skillicons.dev/icons?i=flask&theme=dark)
+![FastAPI](https://skillicons.dev/icons?i=fastapi&theme=dark)
 
 ## 📄 How to reach me
 
